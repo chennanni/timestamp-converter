@@ -1,4 +1,4 @@
 # timestamp
 
 ## Run Instruction
-`node server.js`
+`npm start` or `node server.js`
