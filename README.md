@@ -19,3 +19,6 @@ Also, you can download the project and run in your local with
 - Heroku for deployment
 - Git for code management
 - Cloud 9 for IDE
+
+## Idea
+This project is inspired by the [FreeCodeCamp](https://www.freecodecamp.com/).
