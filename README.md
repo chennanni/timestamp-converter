@@ -12,3 +12,10 @@ Go to the api [website](https://max-timestamp.herokuapp.com) , add input paramet
 ## Run In Local
 Also, you can download the project and run in your local with
 `npm start` or `node server.js`
+
+## Tech Stack
+- NodeJS for Javascript runtime engine
+- Express for routing framework
+- Heroku for deployment
+- Git for code management
+- Cloud 9 for IDE
