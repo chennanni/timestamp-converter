@@ -1,9 +1,5 @@
 # timestamp
 
-<<<<<<< HEAD
-## Run Instruction
-`npm start` or `node server.js`
-=======
 ## What
 The app can 
 - convert Unix timestamp to natural time
@@ -26,4 +22,3 @@ Also, you can download the project and run in your local with
 
 ## Idea
 This project is inspired by the [FreeCodeCamp](https://www.freecodecamp.com/).
->>>>>>> c1ded21e8e20991615a0da4535809a9680e2d092
